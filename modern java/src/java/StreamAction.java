@@ -1,6 +1,5 @@
-package home.eastcow;
+package java;
 
-import home.eastcow.pojo.User;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

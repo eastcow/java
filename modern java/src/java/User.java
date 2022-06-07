@@ -1,4 +1,4 @@
-package home.eastcow.pojo;
+package java;
 
 public class User {
 
